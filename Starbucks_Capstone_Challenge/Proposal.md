@@ -45,7 +45,17 @@ The solution of this project will be achieved using the following steps given be
 4. **Model Evaluation** - accuracy and f1 metrics will be used to evaluated model performance.
 
 ## Benchmark Model
+We will use logistic regression model as a benchmark model.
 
 ## Evaluation Metrics
+The accuracy of the model will be measured using the data data. Similarly, f1 score will be used as a evaluation metric. Precision and Recall are two factors that affect the f1 score.
 
 ## Project Design
+1. Establish the notebook in jupyter environment
+2. Fetch the data from the source
+3. Data cleaning and preprocessing
+4. Data exploration and visualization
+5. Split the data into train and test set
+6. Build and train the benchmark model
+7. Build and train the proposed model
+8. Evaluate the model and compare performaces between models
